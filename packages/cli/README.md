@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const cli = require('@lerna-demo/cli');
+const cli = require('@lerna-implement/cli');
 
 // TODO: DEMONSTRATE API
 ```

@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const create = require('@lerna-demo/create');
+const create = require('@lerna-implement/create');
 
 // TODO: DEMONSTRATE API
 ```

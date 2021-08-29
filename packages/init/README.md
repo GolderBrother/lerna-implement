@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const init = require('@lerna-demo/init');
+const init = require('@lerna-implement/init');
 
 // TODO: DEMONSTRATE API
 ```

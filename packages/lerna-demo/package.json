@@ -8,7 +8,7 @@
   "author": "James <jamesezhang@tencent.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "index.js",
+  "main": "lib/lerna-demo.js",
   "bin": {
     "lerna-demo": "cli.js"
   },
@@ -26,8 +26,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lerna-demo/cli": "^0.0.2",
-    "@lerna-demo/create": "^0.0.2",
-    "@lerna-demo/init": "^0.0.2"
+    "@lerna-implement/cli": "^0.0.2",
+    "@lerna-implement/create": "^0.0.2",
+    "@lerna-implement/init": "^0.0.2"
   }
 }

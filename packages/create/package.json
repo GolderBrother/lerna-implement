@@ -21,5 +21,10 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "init-package-json": "^2.0.4",
+    "pify": "^5.0.0"
   }
 }
