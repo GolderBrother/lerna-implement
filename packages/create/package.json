@@ -1,0 +1,25 @@
+{
+  "name": "@lerna-demo/create",
+  "version": "0.0.1",
+  "description": "@lerna-demo/create",
+  "keywords": [
+    "@lerna-demo/create"
+  ],
+  "author": "James <jamesezhang@tencent.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/create.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

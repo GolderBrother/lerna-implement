@@ -1,0 +1,25 @@
+{
+  "name": "lerna-demo",
+  "version": "0.0.1",
+  "description": "lerna-demo",
+  "keywords": [
+    "lerna-demo"
+  ],
+  "author": "James <jamesezhang@tencent.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/lerna-demo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
