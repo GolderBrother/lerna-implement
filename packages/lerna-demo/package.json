@@ -1,6 +1,6 @@
 {
   "name": "lerna-demo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "lerna-demo",
   "keywords": [
     "lerna-demo"
@@ -26,8 +26,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lerna-implement/cli": "^0.0.2",
-    "@lerna-implement/create": "^0.0.2",
-    "@lerna-implement/init": "^0.0.2"
+    "@lerna-implement/cli": "^0.0.3",
+    "@lerna-implement/create": "^0.0.3",
+    "@lerna-implement/init": "^0.0.3"
   }
 }
