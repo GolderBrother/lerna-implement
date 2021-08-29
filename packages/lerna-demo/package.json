@@ -26,8 +26,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lerna-demo/cli":"^0.0.2",
-    "@lerna-demo/init":"^0.0.2",
-    "@lerna-demo/create":"^0.0.2"
+    "@lerna-demo/cli": "^0.0.2",
+    "@lerna-demo/create": "^0.0.2",
+    "@lerna-demo/init": "^0.0.2"
   }
 }
