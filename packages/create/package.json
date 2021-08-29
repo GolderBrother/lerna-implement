@@ -1,9 +1,9 @@
 {
-  "name": "@lerna-demo/create",
-  "version": "0.0.1",
-  "description": "@lerna-demo/create",
+  "name": "@lerna-implement/create",
+  "version": "0.0.2",
+  "description": "@lerna-implement/create",
   "keywords": [
-    "@lerna-demo/create"
+    "@lerna-implement/create"
   ],
   "author": "James <jamesezhang@tencent.com>",
   "homepage": "",
